@@ -8,7 +8,7 @@
   **Roll Number**: 2401010436<br>
   **Email ID**: tajuddinshaik786r@gmail.com<br>
   **GitHub ID**: Taj-786
-- **Name**: Tejmul Movin
-      **Roll Number**: 230141
-      **Email ID**: tejmulmovin@gmail 
+- **Name**: Tejmul Movin <br>
+      **Roll Number**: 230141 <br>
+      **Email ID**: tejmulmovin@gmail <br>
       **GitHub ID**: https://github.com/Tejmul
